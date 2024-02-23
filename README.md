@@ -4,6 +4,5 @@ https://docs.google.com/spreadsheets/d/1fZndGXx9VtL2lGhibtuVctuQzx6rzGkfEk5Ec7t8
 
 Example:
 
-	<img width="626" alt="image" src="https://github.com/SandaKitsune/Retention_Cohort_/assets/125961358/51cccb09-c34b-4cb6-871e-bc06baca7f48">
+<img width="626" alt="image" src="https://github.com/SandaKitsune/Retention_Cohort_/assets/125961358/a39c295b-2724-4081-b122-1a34f5f7e03b">
 
-			
