@@ -3,20 +3,5 @@ In this repository, I analyze retention, cohorts, and churn
 https://docs.google.com/spreadsheets/d/1fZndGXx9VtL2lGhibtuVctuQzx6rzGkfEk5Ec7t8Y3o/edit?usp=sharing
 
 Example:
-
-Customer Retention By Cohort (%)							
-sub_start_week	retention_week_0	retention_week_1	retention_week_2	retention_week_3	retention_week_4	retention_week_5	retention_week_6
-2020-11-01	100.00%	90.09%	87.98%	86.89%	85.70%	84.73%	84.20%
-2020-11-08	100.00%	89.47%	87.75%	86.47%	85.22%	84.63%	84.33%
-2020-11-15	100.00%	90.21%	88.28%	86.93%	86.05%	85.63%	85.51%
-2020-11-22	100.00%	90.52%	88.67%	87.48%	87.01%	86.89%	86.67%
-2020-11-29	100.00%	90.53%	88.83%	88.28%	88.06%	87.80%	87.52%
-2020-12-06	100.00%	92.21%	91.38%	91.12%	90.67%	90.42%	90.21%
-2020-12-13	100.00%	93.23%	92.94%	92.48%	92.12%	91.88%	91.58%
-2020-12-20	100.00%	95.13%	94.52%	94.06%	93.68%	93.41%	93.40%
-2020-12-27	100.00%	94.59%	93.60%	93.02%	92.47%	92.44%	
-2021-01-03	100.00%	93.38%	92.25%	91.52%	91.47%		
-2021-01-10	100.00%	92.89%	91.71%	91.64%			
-2021-01-17	100.00%	91.60%	91.44%				
-2021-01-24	100.00%	93.82%					
-2021-01-31	100.00%						
+	<img width="626" alt="image" src="https://github.com/SandaKitsune/Retention_Cohort_/assets/125961358/f4d13246-2829-4e7b-8b18-8a485e2667b6">
+			
